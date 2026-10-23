@@ -80,3 +80,9 @@ Thanks to the developers of the ROMs and Recoveries.
 - Join the [Telegram Community](https://t.me/HyperVoltron) for real-time troubleshooting.
 
 Found this guide helpful? Give it a ⭐ to support the project!
+
+---
+
+## 📄 License
+
+This guide is licensed under [CC BY 4.0](LICENSE). You may share and adapt it, as long as you give appropriate credit.
